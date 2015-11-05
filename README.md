@@ -4,7 +4,7 @@ Docker image to send email via gmail account
 # Usage
 Build with
 
-	./build_gmailsmtp
+	./build_images.sh
 
 Run with 
 
